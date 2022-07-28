@@ -1,0 +1,136 @@
+.title{
+    text-align: center;
+    color: #878787;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 600;
+}
+#stu_name{
+    font-weight: 600;
+    font-size: 18px;
+}
+.restrict{
+    width: 18px;
+    height: 18px;
+}
+.small-margin{
+    margin: 5px;
+}
+.info{
+    margin: 20px;
+    font-size: 15px;
+    font-weight: 500;
+}
+.content{
+    border: none;
+    color: #878787;
+    height: 40px;
+    font-size: 14px;
+    text-align: center;
+    width: 100%;
+    -webkit-user-select: auto;
+}
+
+#in_out::-webkit-input-placeholder {
+    color: #057c06;
+  }
+  input::-moz-input-placeholder {
+    color: #057c06;
+  }
+  input::-ms-input-placeholder {
+    color: #057c06;
+  }
+
+
+#in_out{
+    color: 	#057c06;
+    font-size: 17px;
+    font-weight: 500;
+    height: 43px;
+    border: none;
+    text-align: center;
+    width: 100%;
+    margin-top: 15px;
+    -webkit-user-select: auto;
+}
+
+body{
+    /* background: #f3f7fa; */
+    text-align: center;
+    /* padding: 0px; */
+    margin: 5%;
+    box-shadow: rgb(232, 232, 232) 3px 3px 3px 1px;
+    border-radius: 5px;
+}
+
+.code{
+    background: white;
+    text-align: center;
+    padding-bottom: 35px;
+    /* padding: 10px; */
+}
+
+.pic_code{
+    width: 100%;
+}
+
+.more{
+    background: white;
+    padding-top: 9px;
+    text-align: left;
+    padding-bottom: 5px;
+    width: 100%;
+}
+
+#qr_code{
+    width: 325px;
+    height: 325px;
+}
+#cropedBigImg{
+    width: 100px;
+    height: 100px;
+    /* border-radius: 5px; */
+}
+.bar{
+    padding: 5px;
+    background: white;
+    text-align: left;
+}
+
+
+#pic_more{
+    width: 81.3px;
+    height: 39.3px;
+}
+
+.pic_bar{
+    width: 100%;
+    height: 40px;
+}
+
+#top{
+    width: 100%;
+    height: 30px;
+}
+
+
+.bottom{
+    background:	#ededed;
+    padding-top: 10px;
+    width: 100%;
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    z-index: 9999;
+    height: 50px;
+}
+
+.hide{
+    display: none;
+}
+
+.blue_number{
+    font-family: Microsoft YaHei;
+    font-size: 25px;
+    color: #3f58d5;
+}
